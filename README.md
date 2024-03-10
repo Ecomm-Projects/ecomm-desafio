@@ -18,16 +18,8 @@ Este desafio tem como objetivo verificar as habilidades do desenvolvedor na migr
    - Acesse a pasta htdocs, normalmente localizada em C:\xampp\htdocs ou na pasta onde o XAMPP foi instalado.
    - Clone o repositório para dentro da pasta HTDOCS.
 
-4. **Iniciar Servidores:**
-   - Inicie o Apache utilizando o controle do XAMPP.
-   - Abra o terminal na pasta htdocs e execute os seguintes comandos:
-     ```
-     npm install # (executar apenas uma vez)
-     npm run dev
-     ```
-   - Acesse a URL http://localhost para verificar se a instalação foi concluída corretamente. A página inicial do Laravel deve ser exibida.
 
-5. **Instalação do Projeto Laravel:**
+4. **Instalação do Projeto Laravel:**
    - Abra o terminal.
    - Navegue até a pasta do projeto clonado dentro da pasta HTDOCS.
    - Baixe o composer  [link](https://getcomposer.org/Composer-Setup.exe).
@@ -41,6 +33,15 @@ Este desafio tem como objetivo verificar as habilidades do desenvolvedor na migr
      ```
      php artisan key:generate
      ```
+   - Abra o terminal na pasta htdocs e execute os seguintes comandos:
+     ```
+     npm install # (executar apenas uma vez)
+     npm run dev # (Irá ficar rodando o vite em desenvolvimento)
+     ```
+
+5. **Iniciar Servidores:**
+   - Inicie o Apache utilizando o controle do XAMPP.
+   - Acesse a URL http://localhost para verificar se a instalação foi concluída corretamente. A página inicial do Laravel deve ser exibida.
 
 ## Desafios
 
