@@ -22,7 +22,7 @@ Este desafio tem como objetivo verificar as habilidades do desenvolvedor na migr
 4. **Instalação do Projeto Laravel:**
    - Abra o terminal.
    - Navegue até a pasta do projeto clonado dentro da pasta HTDOCS.
-   - Baixe o composer  [link](https://getcomposer.org/Composer-Setup.exe).
+   - Baixe o composer  [link](https://getcomposer.org/Composer-Setup.exe)
    - Instale-o.
    - Execute o seguinte comando para instalar as dependências do Laravel:
      ```
